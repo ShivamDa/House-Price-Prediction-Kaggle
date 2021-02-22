@@ -8,4 +8,14 @@ Competition Description: Ask a home buyer to describe their dream house, and the
 4) Categorising Features
 5) manupilating missing data according to feature categoty and Importance
 6) Using encoder for catagories
-7) 
+7) Hyperparameter optimisation
+8) Using XG Boosting and Regressor
+9) Predition with All Features
+10) Predition with only Highly corelated feartures
+11) Addded both preditions to dataset
+
+
+
+### In this Dataset , I didnt had the Ideal values of output, So I was not able to check accurecy. But I could have checked it with RMSE values.
+
+
