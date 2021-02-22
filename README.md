@@ -16,6 +16,6 @@ Competition Description: Ask a home buyer to describe their dream house, and the
 
 
 
-### In this Dataset , I didnt had the Ideal values of output, So I was not able to check accurecy. But I could have checked it with RMSE values.
+### In this Dataset , I didn't had the Ideal values of output, So I was not able to check accurecy. But I could have checked it with RMSE values.
 
 
